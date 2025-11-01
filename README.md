@@ -56,6 +56,18 @@ Os cálculos se baseiam em dados públicos e estudos técnicos:
 
 ---
 
+## 👨‍💻 Equipe de Desenvolvimento
+
+| Nome Completo | Função / Participação |
+|----------------|-----------------------|
+| **CÁSSIO CORDEIRO DO PRADO** | Desenvolvimento e análise técnica |
+| **ELAINE REGINA GREGÓRIO SANTOS** | Pesquisa e sustentabilidade |
+| **LUCAS EIJI DE MORAES YNADA** | Cálculos e modelagem de dados |
+| **LUCAS SANTANA BRATEFICHE CORRÊA** | Front-end, design e integração |
+| **PEDRO HENRIQUE ADÃO TORRES** | Planejamento e testes de usabilidade |
+
+---
+
 ## 🌱 Como Executar o Projeto
 
 1. Clone o repositório:
