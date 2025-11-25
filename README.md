@@ -76,4 +76,4 @@ Os cálculos se baseiam em dados públicos e estudos técnicos:
 
    ou
 
-   acesso o repositorio e faça download do arquivo, ao abrir vai funcionar automaticamente.
+   acesse o repositorio e faça download do arquivo landingpage.html, ao abrir vai funcionar automaticamente.
