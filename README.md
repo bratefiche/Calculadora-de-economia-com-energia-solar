@@ -73,3 +73,7 @@ Os cálculos se baseiam em dados públicos e estudos técnicos:
 1. Clone o repositório:
    ```bash
    git clone https://github.com/bratefiche/Calculadora-de-economia-com-energia-solar.git
+
+   ou
+
+   acesso o repositorio e faça download do arquivo, ao abrir vai funcionar automaticamente.
